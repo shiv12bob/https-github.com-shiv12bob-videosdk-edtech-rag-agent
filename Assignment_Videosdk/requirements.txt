@@ -1,0 +1,22 @@
+# Core
+openai>=1.0.0
+chromadb>=0.3.21
+sentence-transformers>=2.2.2
+python-dotenv>=1.0.0
+
+# Speech (optional)
+whisperx>=0.3.0
+pydub>=0.25.1
+sounddevice>=0.4.6
+soundfile>=0.12.1
+
+# TTS
+pyttsx3>=2.90
+
+# Utilities / server
+tqdm>=4.65.0
+uvicorn>=0.20.0
+fastapi>=0.95.0
+
+# VideoSDK (optional)
+videosdk-agents>=0.0.45

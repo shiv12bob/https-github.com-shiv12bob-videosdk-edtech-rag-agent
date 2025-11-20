@@ -1,0 +1,7 @@
+Sample Project Docs
+
+This is a sample document for testing RAG. It contains facts about data retention:
+- recordings are stored for 30 days.
+- users may request deletion at privacy@example.com.
+
+Also, this document mentions the audio encoding: we use 16kHz mono WAV for best compatibility.
