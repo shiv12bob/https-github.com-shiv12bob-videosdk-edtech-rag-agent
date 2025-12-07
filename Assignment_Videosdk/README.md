@@ -1,4 +1,4 @@
-## Voice RAG Agent – EdTech Sales (Assignment Ready)
+## Voice RAG Agent – EdTech Sales 
 
 This project implements an **end‑to‑end voice agent** using the **VideoSDK Agent SDK** with a **RAG (Retrieval‑Augmented Generation) pipeline** on top of a local vector database (**ChromaDB**).  
 The assistant is specialized for **EdTech sales** use cases.
